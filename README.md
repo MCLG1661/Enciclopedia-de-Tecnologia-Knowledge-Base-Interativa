@@ -148,13 +148,7 @@ A aplicação foi estruturada para funcionar em diferentes tamanhos de tela.
 
 ## 🖥️ Preview da Aplicação
 
-<!-- Substitua URL-DA-SCREENSHOT depois de enviar a imagem ao GitHub -->
-
-<p align="center">
-  <img src=""
-       alt="Enciclopédia de Tecnologia - Imersão DEV 10"
-       width="850">
-</p>
+<img width="1920" height="1080" alt="Captura de tela 2026-08-12 181944" src="https://github.com/user-attachments/assets/75cba164-a378-44b2-8717-ff1a506a7b70" />
 
 ---
 
