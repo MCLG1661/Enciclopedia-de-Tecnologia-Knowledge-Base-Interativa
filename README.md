@@ -11,8 +11,6 @@
 ![Top 10](https://img.shields.io/badge/🏆_Imersão_DEV_10-TOP_10-gold)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-> 🏆 **Projeto selecionado entre os 10 melhores trabalhos da Imersão DEV 10 — Alura.**
-
 A **Enciclopédia de Tecnologia** é uma aplicação web interativa desenvolvida para
 centralizar e facilitar a consulta de informações sobre linguagens de programação,
 seus criadores e tecnologias relacionadas.
