@@ -153,7 +153,7 @@ A aplicação foi estruturada para funcionar em diferentes tamanhos de tela.
 <!-- Substitua URL-DA-SCREENSHOT depois de enviar a imagem ao GitHub -->
 
 <p align="center">
-  <img src="URL-DA-SCREENSHOT"
+  <img src=""
        alt="Enciclopédia de Tecnologia - Imersão DEV 10"
        width="850">
 </p>
@@ -162,9 +162,7 @@ A aplicação foi estruturada para funcionar em diferentes tamanhos de tela.
 
 ## 🌐 Live Demo
 
-<!-- Depois de ativar o GitHub Pages, substitua a URL abaixo -->
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Explorar_Enciclopédia-2ea44f)](URL-DO-GITHUB-PAGES)
+[![Live Demo](https://mclg1661.github.io/Enciclopedia-de-Tecnologia-Knowledge-Base-Interativa/)
 
 ---
 
