@@ -162,7 +162,7 @@ A aplicação foi estruturada para funcionar em diferentes tamanhos de tela.
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://mclg1661.github.io/Enciclopedia-de-Tecnologia-Knowledge-Base-Interativa/)
+(https://mclg1661.github.io/Enciclopedia-de-Tecnologia-Knowledge-Base-Interativa/)
 
 ---
 
