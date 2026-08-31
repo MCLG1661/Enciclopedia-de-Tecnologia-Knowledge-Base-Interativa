@@ -148,7 +148,9 @@ A aplicação foi estruturada para funcionar em diferentes tamanhos de tela.
 
 ## 🖥️ Preview da Aplicação
 
-<img width="800" height="400" alt="Captura de tela 2026-08-12 181944" src="https://github.com/user-attachments/assets/75cba164-a378-44b2-8717-ff1a506a7b70" />
+Página de Tecnologias : <img width="300" height="150" alt="Captura de tela 2026-08-31 095715" src="https://github.com/user-attachments/assets/89e30f3e-61d4-4645-8d7c-70403cb61194" />
+
+Página de Criadores : <img width="300" height="150" alt="Captura de tela 2026-08-31 095906" src="https://github.com/user-attachments/assets/53133c2b-d3cf-48d7-abe5-f889d66c53b7" />
 
 ---
 
