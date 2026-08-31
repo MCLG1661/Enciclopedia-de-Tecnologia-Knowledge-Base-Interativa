@@ -222,7 +222,7 @@ A aplicação foi estruturada para funcionar em diferentes tamanhos de tela.
 ## 📂 Estrutura do Projeto
 
 ```text
-Imersao-DEV-10/
+Enciclopedia-de-Tecnologia-Knowledge-Base-Interativa/
 │
 ├── index.html
 ├── style.css
@@ -238,13 +238,13 @@ Imersao-DEV-10/
 1. Clone o repositório
 
 ```bash
-git clone https://github.com/MCLG1661/Imersao-DEV-10.git
+git clone https://github.com/MCLG1661/Enciclopedia-de-Tecnologia-Knowledge-Base-Interativa.git
 ```
 
 2. Acesse o diretório
 
 ```bash
-cd Imersao-DEV-10
+cd Enciclopedia-de-Tecnologia-Knowledge-Base-Interativa
 ```
 
 3. Execute a aplicação
