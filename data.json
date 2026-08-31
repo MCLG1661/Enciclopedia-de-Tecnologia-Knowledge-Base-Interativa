@@ -207,7 +207,7 @@
     "descrição": "Programador canadense que iniciou o desenvolvimento da linguagem Rust como projeto pessoal, posteriormente apoiado pela Mozilla.",
     "criador": "Rust",
     "ano": 1977,
-    "imagem_url": "assets/creators/graydon-hoare.jpg"
+    "imagem_url": "assets/creators/graydon-hoare.jpg",
     "link": "https://en.wikipedia.org/wiki/Graydon_Hoare"
   },
   {
@@ -217,7 +217,7 @@
     "descrição": "Engenheiro de software dinamarquês conhecido por seu trabalho no Turbo Pascal e Delphi e por sua atuação como arquiteto principal de C# e TypeScript na Microsoft.",
     "criador": "C# / TypeScript",
     "ano": 1960,
-    "imagem_url": "assets/creators/anders-hejlsberg.jpg"
+    "imagem_url": "assets/creators/anders-hejlsberg.jpg",
     "link": "https://pt.wikipedia.org/wiki/Anders_Hejlsberg"
   },
   {
@@ -227,7 +227,7 @@
     "descrição": "Engenheiro de software americano conhecido por seu trabalho no LLVM e por liderar o desenvolvimento inicial da linguagem Swift na Apple.",
     "criador": "Swift",
     "ano": 1978,
-    "imagem_url": "assets/creators/chris-lattner.jpg"
+    "imagem_url": "assets/creators/chris-lattner.jpg",
     "link": "https://en.wikipedia.org/wiki/Chris_Lattner"
   }
 ]
