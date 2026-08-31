@@ -1,209 +1,233 @@
 [
-{
-    "nome":"JavaScript",
-    "tipo":"Front-end / Back-end",
-    "descrição":"O JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. É uma das tecnologias centrais da World Wide Web.",  
-    "criador":"Brendan Eich",
+  {
+    "nome": "JavaScript",
+    "categoria": "Tecnologia",
+    "tipo": "Front-end / Back-end",
+    "descrição": "JavaScript é uma linguagem de programação de alto nível e uma das tecnologias fundamentais da Web, utilizada para criar aplicações interativas tanto no navegador quanto no servidor.",
+    "criador": "Brendan Eich",
     "ano": 1995,
     "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
     "link": "https://pt.wikipedia.org/wiki/JavaScript"
-},
-{
-    "nome":"Python",
-    "tipo":"Back-end / Data Science",
-    "descrição":"Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. É conhecida por sua sintaxe clara e legível.",
-    "criador":"Guido van Rossum",
+  },
+  {
+    "nome": "Python",
+    "categoria": "Tecnologia",
+    "tipo": "Back-end / Data Science",
+    "descrição": "Python é uma linguagem de programação de alto nível conhecida pela sintaxe clara e legível. É amplamente utilizada em desenvolvimento web, automação, Data Science, Machine Learning e Inteligência Artificial.",
+    "criador": "Guido van Rossum",
     "ano": 1991,
     "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
     "link": "https://pt.wikipedia.org/wiki/Python"
-},
-{
-    "nome":"Java",
-    "tipo":"Back-end / Mobile",
-    "descrição":"Java é uma linguagem de programação orientada a objetos, baseada em classes e concorrente. É uma das linguagens mais populares, conhecida pelo lema 'write once, run anywhere' (escreva uma vez, rode em qualquer lugar).",
-    "criador":"James Gosling",
+  },
+  {
+    "nome": "Java",
+    "categoria": "Tecnologia",
+    "tipo": "Back-end / Mobile",
+    "descrição": "Java é uma linguagem de programação orientada a objetos e baseada em classes, amplamente utilizada no desenvolvimento de aplicações corporativas, sistemas distribuídos e aplicações Android.",
+    "criador": "James Gosling",
     "ano": 1995,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
     "link": "https://pt.wikipedia.org/wiki/Java_(linguagem_de_programação)"
-},
-{
-    "nome":"C#",
-    "tipo":"Back-end / Games",
-    "descrição":"C# (pronuncia-se 'C sharp') é uma linguagem de programação multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. É amplamente usada para desenvolver aplicações para Windows, web e jogos com a engine Unity.",
-    "criador":"Anders Hejlsberg",
+  },
+  {
+    "nome": "C#",
+    "categoria": "Tecnologia",
+    "tipo": "Back-end / Games",
+    "descrição": "C# é uma linguagem de programação multiparadigma e de tipagem forte desenvolvida pela Microsoft para a plataforma .NET. É utilizada em aplicações corporativas, web, desktop e desenvolvimento de jogos.",
+    "criador": "Anders Hejlsberg",
     "ano": 2000,
     "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg",
     "link": "https://pt.wikipedia.org/wiki/C_Sharp"
-},
-{
-    "nome":"PHP",
-    "tipo":"Back-end",
-    "descrição":"PHP é uma linguagem de script de uso geral, de código aberto, especialmente adequada para o desenvolvimento web e que pode ser embutida em HTML. Grande parte da web, incluindo sistemas como WordPress, é construída com PHP.",
-    "criador":"Rasmus Lerdorf",
-    "ano": 1994,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
+  },
+  {
+    "nome": "PHP",
+    "categoria": "Tecnologia",
+    "tipo": "Back-end / Web",
+    "descrição": "PHP é uma linguagem de programação de código aberto especialmente utilizada no desenvolvimento web e na construção de aplicações executadas no servidor.",
+    "criador": "Rasmus Lerdorf",
+    "ano": 1995,
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
     "link": "https://pt.wikipedia.org/wiki/PHP"
-},
-{
-    "nome":"C++",
-    "tipo":"Sistemas / Games",
-    "descrição":"C++ é uma linguagem de programação de nível médio, multiparadigma e de uso geral. É uma extensão da linguagem C e é amplamente utilizada em software de sistema, desenvolvimento de jogos, drivers e aplicações de alta performance.",
-    "criador":"Bjarne Stroustrup",
+  },
+  {
+    "nome": "C++",
+    "categoria": "Tecnologia",
+    "tipo": "Sistemas / Games",
+    "descrição": "C++ é uma linguagem de programação de propósito geral derivada da linguagem C. É amplamente utilizada em sistemas, jogos, engines, aplicações de alta performance e software embarcado.",
+    "criador": "Bjarne Stroustrup",
     "ano": 1985,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg",
     "link": "https://pt.wikipedia.org/wiki/C%2B%2B"
-},
-{
-    "nome":"Swift",
-    "tipo":"Mobile",
-    "descrição":"Swift é uma linguagem de programação compilada, multiparadigma, desenvolvida pela Apple para criar aplicativos para iOS, Mac, Apple TV e Apple Watch. Foi projetada para ser segura, rápida e expressiva.",
-    "criador":"Chris Lattner",
+  },
+  {
+    "nome": "Swift",
+    "categoria": "Tecnologia",
+    "tipo": "Mobile",
+    "descrição": "Swift é uma linguagem de programação desenvolvida pela Apple para criação de aplicações em seu ecossistema, incluindo iPhone, iPad, Mac, Apple Watch e Apple TV.",
+    "criador": "Chris Lattner",
     "ano": 2014,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1200px-Swift_logo.svg.png",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg",
     "link": "https://pt.wikipedia.org/wiki/Swift_(linguagem_de_programação)"
-},
-{
-    "nome":"Kotlin",
-    "tipo":"Mobile / Back-end",
-    "descrição":"Kotlin é uma linguagem de programação de tipagem estática que roda na Máquina Virtual Java (JVM) e também pode ser compilada para JavaScript ou código nativo. É a linguagem preferida do Google para o desenvolvimento de aplicativos Android.",
-    "criador":"JetBrains",
+  },
+  {
+    "nome": "Kotlin",
+    "categoria": "Tecnologia",
+    "tipo": "Mobile / Back-end",
+    "descrição": "Kotlin é uma linguagem de programação de tipagem estática desenvolvida pela JetBrains. Possui forte integração com o ecossistema Java e é amplamente utilizada no desenvolvimento Android.",
+    "criador": "JetBrains",
     "ano": 2011,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png",
     "link": "https://pt.wikipedia.org/wiki/Kotlin_(linguagem_de_programação)"
-},
-{
-    "nome":"Go",
-    "tipo":"Back-end / Sistemas",
-    "descrição":"Go (ou Golang) é uma linguagem de programação compilada e de tipagem estática projetada no Google. É sintaticamente semelhante ao C, mas com segurança de memória, coleta de lixo e concorrência no estilo CSP. É popular para serviços de back-end e ferramentas de linha de comando.",
-    "criador":"Robert Griesemer, Rob Pike, Ken Thompson",
+  },
+  {
+    "nome": "Go",
+    "categoria": "Tecnologia",
+    "tipo": "Back-end / Sistemas",
+    "descrição": "Go, também conhecida como Golang, é uma linguagem compilada e de tipagem estática desenvolvida no Google, com forte utilização em serviços de back-end, infraestrutura, cloud e sistemas distribuídos.",
+    "criador": "Robert Griesemer, Rob Pike e Ken Thompson",
     "ano": 2009,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg",
     "link": "https://pt.wikipedia.org/wiki/Go_(linguagem_de_programação)"
-},
-{
+  },
+  {
+    "nome": "TypeScript",
+    "categoria": "Tecnologia",
+    "tipo": "Front-end / Back-end",
+    "descrição": "TypeScript é uma linguagem de código aberto desenvolvida pela Microsoft como um superconjunto de JavaScript, acrescentando recursos como tipagem estática opcional.",
+    "criador": "Microsoft / Anders Hejlsberg",
+    "ano": 2012,
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
+    "link": "https://pt.wikipedia.org/wiki/TypeScript"
+  },
+  {
+    "nome": "C",
+    "categoria": "Tecnologia",
+    "tipo": "Sistemas",
+    "descrição": "C é uma linguagem de programação de propósito geral, estruturada e procedural. Tornou-se uma das linguagens mais influentes da computação e serviu de base para diversas tecnologias posteriores.",
+    "criador": "Dennis Ritchie",
+    "ano": 1972,
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg",
+    "link": "https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)"
+  },
+  {
+    "nome": "Ruby",
+    "categoria": "Tecnologia",
+    "tipo": "Back-end / Web",
+    "descrição": "Ruby é uma linguagem interpretada e orientada a objetos conhecida pela sintaxe expressiva e pela produtividade, especialmente após a popularização do framework Ruby on Rails.",
+    "criador": "Yukihiro Matsumoto",
+    "ano": 1995,
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg",
+    "link": "https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programação)"
+  },
+  {
+    "nome": "Rust",
+    "categoria": "Tecnologia",
+    "tipo": "Sistemas / Back-end",
+    "descrição": "Rust é uma linguagem de programação compilada voltada para performance, confiabilidade e segurança de memória, sendo utilizada em sistemas, infraestrutura e aplicações de alta performance.",
+    "criador": "Graydon Hoare",
+    "ano": 2010,
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg",
+    "link": "https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programação)"
+  },
+
+  {
     "nome": "Brendan Eich",
-    "tipo": "Criador",
-    "descrição": "Cientista da computação americano. É o criador da linguagem de programação JavaScript. Foi co-fundador do Projeto Mozilla, da Fundação Mozilla e da Corporação Mozilla.",
+    "categoria": "Criador",
+    "tipo": "JavaScript",
+    "descrição": "Programador e cientista da computação americano conhecido pela criação da linguagem JavaScript e por sua participação no desenvolvimento inicial do projeto Mozilla.",
     "criador": "JavaScript",
     "ano": 1961,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/440px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg",
     "link": "https://pt.wikipedia.org/wiki/Brendan_Eich"
-},
-{
+  },
+  {
     "nome": "Guido van Rossum",
-    "tipo": "Criador",
-    "descrição": "Programador holandês, mais conhecido como o autor da linguagem de programação Python. Foi empregado do Google e da Dropbox.",
+    "categoria": "Criador",
+    "tipo": "Python",
+    "descrição": "Programador holandês conhecido como criador da linguagem Python, uma das linguagens mais utilizadas atualmente em desenvolvimento, automação, dados e Inteligência Artificial.",
     "criador": "Python",
     "ano": 1956,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_OSCON_2006.jpg/440px-Guido_van_Rossum_OSCON_2006.jpg",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Guido_van_Rossum_OSCON_2006.jpg",
     "link": "https://pt.wikipedia.org/wiki/Guido_van_Rossum"
-},
-{
+  },
+  {
     "nome": "James Gosling",
-    "tipo": "Criador",
-    "descrição": "Cientista da computação canadense, mais conhecido como o fundador e líder da equipe que criou a linguagem de programação Java.",
+    "categoria": "Criador",
+    "tipo": "Java",
+    "descrição": "Cientista da computação canadense reconhecido como principal criador da linguagem Java durante seu trabalho na Sun Microsystems.",
     "criador": "Java",
     "ano": 1955,
     "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/James_Gosling_2005.jpg",
     "link": "https://pt.wikipedia.org/wiki/James_Gosling"
-},
-{
+  },
+  {
     "nome": "Rasmus Lerdorf",
-    "tipo": "Criador",
-    "descrição": "Programador dinamarquês-canadense, conhecido por ter criado a linguagem de programação de script PHP. Ele escreveu as duas primeiras versões do PHP.",
+    "categoria": "Criador",
+    "tipo": "PHP",
+    "descrição": "Programador dinamarquês-canadense responsável pela criação das primeiras versões do PHP, tecnologia que se tornou amplamente utilizada no desenvolvimento web.",
     "criador": "PHP",
     "ano": 1968,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rasmus_Lerdorf.jpg/440px-Rasmus_Lerdorf.jpg",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Rasmus_Lerdorf.jpg",
     "link": "https://pt.wikipedia.org/wiki/Rasmus_Lerdorf"
-},
-{
+  },
+  {
     "nome": "Bjarne Stroustrup",
-    "tipo": "Criador",
-    "descrição": "Cientista da computação dinamarquês, mais conhecido pela criação e desenvolvimento da linguagem de programação C++.",
+    "categoria": "Criador",
+    "tipo": "C++",
+    "descrição": "Cientista da computação dinamarquês conhecido pela criação e desenvolvimento da linguagem C++, uma das principais linguagens utilizadas em sistemas e aplicações de alta performance.",
     "criador": "C++",
     "ano": 1950,
     "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/BjarneStroustrup.jpg",
     "link": "https://pt.wikipedia.org/wiki/Bjarne_Stroustrup"
-},
-{
-    "nome": "TypeScript",
-    "tipo": "Front-end / Back-end",
-    "descrição": "TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.",
-    "criador": "Microsoft",
-    "ano": 2012,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
-    "link": "https://pt.wikipedia.org/wiki/TypeScript"
-},
-{
-    "nome": "C",
-    "tipo": "Sistemas",
-    "descrição": "C é uma linguagem de programação compilada de propósito geral, estruturada, imperativa e procedural. É uma das linguagens mais antigas e influentes, servindo de base para muitas outras, como C++, C#, e Java.",
-    "criador": "Dennis Ritchie",
-    "ano": 1972,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png",
-    "link": "https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)"
-},
-{
-    "nome": "Ruby",
-    "tipo": "Back-end / Web",
-    "descrição": "Ruby é uma linguagem de programação interpretada, de tipagem dinâmica e orientada a objetos. É conhecida por sua sintaxe elegante e produtividade, popularizada pelo framework web Ruby on Rails.",
-    "criador": "Yukihiro Matsumoto",
-    "ano": 1995,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png",
-    "link": "https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programação)"
-},
-{
-    "nome": "Rust",
-    "tipo": "Sistemas / Back-end",
-    "descrição": "Rust é uma linguagem de programação compilada, multiparadigma, focada em segurança, especialmente segurança de concorrência e de memória. É patrocinada pela Mozilla Research.",
-    "criador": "Graydon Hoare",
-    "ano": 2010,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png",
-    "link": "https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programação)"
-},
-{
+  },
+  {
     "nome": "Dennis Ritchie",
-    "tipo": "Criador",
-    "descrição": "Cientista da computação americano. Criou a linguagem de programação C e, com Ken Thompson, o sistema operacional Unix. Recebeu o Prêmio Turing em 1983.",
+    "categoria": "Criador",
+    "tipo": "C",
+    "descrição": "Cientista da computação americano responsável pela criação da linguagem C e, juntamente com Ken Thompson, por contribuições fundamentais ao desenvolvimento do sistema operacional Unix.",
     "criador": "C",
     "ano": 1941,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dennis_Ritchie_2011.jpg/440px-Dennis_Ritchie_2011.jpg",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Dennis_Ritchie_2011.jpg",
     "link": "https://pt.wikipedia.org/wiki/Dennis_Ritchie"
-},
-{
+  },
+  {
     "nome": "Yukihiro Matsumoto",
-    "tipo": "Criador",
-    "descrição": "Cientista da computação e programador japonês, mais conhecido como o criador da linguagem de programação Ruby. É também conhecido como 'Matz'.",
+    "categoria": "Criador",
+    "tipo": "Ruby",
+    "descrição": "Programador japonês, também conhecido como Matz, responsável pela criação da linguagem Ruby, projetada com foco em produtividade e experiência do desenvolvedor.",
     "criador": "Ruby",
     "ano": 1965,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Yukihiro_Matsumoto.JPG/440px-Yukihiro_Matsumoto.JPG",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Yukihiro_Matsumoto.JPG",
     "link": "https://pt.wikipedia.org/wiki/Yukihiro_Matsumoto"
-},
-{
+  },
+  {
     "nome": "Graydon Hoare",
-    "tipo": "Criador",
-    "descrição": "Programador de computador canadense que criou a linguagem de programação Rust como um projeto pessoal enquanto trabalhava na Mozilla em 2006.",
+    "categoria": "Criador",
+    "tipo": "Rust",
+    "descrição": "Programador canadense que iniciou o desenvolvimento da linguagem Rust como projeto pessoal, posteriormente apoiado pela Mozilla.",
     "criador": "Rust",
     "ano": 1977,
     "imagem_url": "https://www.rust-lang.org/static/images/graydon-sq.jpg",
     "link": "https://en.wikipedia.org/wiki/Graydon_Hoare"
-},
-{
+  },
+  {
     "nome": "Anders Hejlsberg",
-    "tipo": "Criador",
-    "descrição": "Engenheiro de software dinamarquês. Foi o arquiteto original do Turbo Pascal e Delphi. Na Microsoft, foi o arquiteto líder do C# e um dos principais desenvolvedores do TypeScript.",
-    "criador": "C#, TypeScript",
+    "categoria": "Criador",
+    "tipo": "C# / TypeScript",
+    "descrição": "Engenheiro de software dinamarquês conhecido por seu trabalho no Turbo Pascal e Delphi e por sua atuação como arquiteto principal de C# e TypeScript na Microsoft.",
+    "criador": "C# / TypeScript",
     "ano": 1960,
-    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Anders_Hejlsberg_at_Oslo_Concert_Hall_2018.jpg/440px-Anders_Hejlsberg_at_Oslo_Concert_Hall_2018.jpg",
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Anders_Hejlsberg_at_Oslo_Concert_Hall_2018.jpg",
     "link": "https://pt.wikipedia.org/wiki/Anders_Hejlsberg"
-},
-{
+  },
+  {
     "nome": "Chris Lattner",
-    "tipo": "Criador",
-    "descrição": "Engenheiro de software americano, conhecido como o principal autor do LLVM e da linguagem de programação Swift, desenvolvida na Apple.",
+    "categoria": "Criador",
+    "tipo": "Swift",
+    "descrição": "Engenheiro de software americano conhecido por seu trabalho no LLVM e por liderar o desenvolvimento inicial da linguagem Swift na Apple.",
     "criador": "Swift",
     "ano": 1978,
     "imagem_url": "https://developer.apple.com/swift/blog/images/ChrisLattner.jpg",
     "link": "https://en.wikipedia.org/wiki/Chris_Lattner"
-}
+  }
 ]
