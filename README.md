@@ -1,6 +1,6 @@
 # 💻 Enciclopédia de Tecnologia
 
-*Enciclopédia de Tecnologia*
+*Base de Conhecimento Interativa*
 
 ![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Responsive-1572B6?logo=css3&logoColor=white)
