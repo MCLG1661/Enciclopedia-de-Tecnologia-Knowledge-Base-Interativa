@@ -1,47 +1,177 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Uma base de conhecimento interativa sobre linguagens de programação, frameworks e seus criadores.">
-    <link rel="stylesheet" href="style.css"> <!-- Referência ao CSS -->
-    <title>Base de conhecimento</title>
-</head>
-<body>
-  <header>
-    <h1>Base de Conhecimento</h1>
-    <form id="caixa-busca" role="search">
-        <input id="campo-busca" type="search" placeholder="Digite uma linguagem de programação" aria-label="Campo de busca">
-        <button id="botao-busca" type="submit" aria-label="Buscar">Buscar</button>
-        <button id="botao-limpar" type="reset" aria-label="Limpar busca">Limpar</button>
-    </form>
-    <div id="caixa-filtros">
-        <!-- Botões de filtro serão inseridos aqui pelo JavaScript -->
-    </div>
-  </header>
-  
-  <main>
-    <section id="card-container">
-        <!-- Os resultados da busca aparecerão aqui -->
-    </section>
-  </main>
 
-  <footer class="footer">
-    <ul class="footer-links">
-        <li>
-            <a href="https://www.linkedin.com/in/marcusguedes">linkedin</a>
-        </li>
-        <li>
-            <a href="https://github.com/MCLG1661">github</a>
-        </li>
-        <li>
-            <a href="https://portfolio-update-buddy.lovable.app/">lovable</a>
-        </li>
-        <li>
-            <a href="https://alura.com.br">alura</a>
-        </li>
-    </ul>
-  </footer>
-  <script src="script.js"></script>
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Enciclopédia de Tecnologia: explore linguagens de programação, tecnologias e seus criadores."
+    >
+
+    <title>Enciclopédia de Tecnologia</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="hero">
+
+        <div class="hero-content">
+
+            <span class="hero-label">
+                KNOWLEDGE BASE INTERATIVA
+            </span>
+
+            <h1>
+                Enciclopédia de Tecnologia
+            </h1>
+
+            <p class="hero-description">
+                Explore tecnologias, linguagens de programação
+                e as pessoas que ajudaram a criá-las.
+            </p>
+
+            <form
+                id="caixa-busca"
+                class="search-box"
+                role="search"
+            >
+
+                <input
+                    id="campo-busca"
+                    type="search"
+                    placeholder="Pesquise por tecnologia, criador ou área..."
+                    aria-label="Pesquisar na enciclopédia"
+                    autocomplete="off"
+                >
+
+                <button
+                    id="botao-busca"
+                    type="submit"
+                >
+                    Buscar
+                </button>
+
+                <button
+                    id="botao-limpar"
+                    type="reset"
+                    class="secondary-button"
+                >
+                    Limpar
+                </button>
+
+            </form>
+
+            <nav
+                id="caixa-filtros"
+                class="filters"
+                aria-label="Categorias"
+            >
+                <!-- Filtros gerados pelo JavaScript -->
+            </nav>
+
+        </div>
+
+    </header>
+
+
+    <main class="main-content">
+
+        <section class="content-header">
+
+            <div>
+                <span class="section-label">
+                    BASE DE CONHECIMENTO
+                </span>
+
+                <h2 id="titulo-resultados">
+                    Todos os conteúdos
+                </h2>
+            </div>
+
+            <p
+                id="contador-resultados"
+                class="results-counter"
+                aria-live="polite"
+            ></p>
+
+        </section>
+
+
+        <section
+            id="card-container"
+            class="card-container"
+            aria-live="polite"
+        >
+            <!-- Cards gerados pelo JavaScript -->
+        </section>
+
+    </main>
+
+
+    <footer class="footer">
+
+        <div class="footer-content">
+
+            <div>
+                <strong>
+                    Enciclopédia de Tecnologia
+                </strong>
+
+                <p>
+                    Knowledge Base Interativa
+                </p>
+            </div>
+
+            <nav
+                class="footer-links"
+                aria-label="Links externos"
+            >
+
+                <a
+                    href="https://github.com/MCLG1661"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    GitHub
+                </a>
+
+                <a
+                    href="https://www.linkedin.com/in/marcusguedes"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    LinkedIn
+                </a>
+
+                <a
+                    href="https://www.alura.com.br"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Alura
+                </a>
+
+            </nav>
+
+        </div>
+
+        <p class="copyright">
+            Desenvolvido por Marcus Guedes • Imersão DEV 10
+        </p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
 </body>
+
 </html>
