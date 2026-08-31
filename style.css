@@ -326,13 +326,29 @@ a {
 */
 
 .card-criador .card-image-wrapper {
-    padding: 0;
-    background: #e9edf4;
+    height: 190px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 20px;
+
+    background: #f8f9fc;
+    border-bottom: 1px solid #edf0f5;
 }
 
 .card-criador .card-imagem {
+    width: 140px;
+    height: 140px;
+
     object-fit: cover;
-    object-position: center;
+    object-position: center top;
+
+    border-radius: 50%;
+    border: 4px solid #ffffff;
+
+    box-shadow: 0 4px 14px rgba(18, 32, 57, 0.12);
 }
 
 
