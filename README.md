@@ -224,10 +224,16 @@ A aplicação foi estruturada para funcionar em diferentes tamanhos de tela.
 ```text
 Enciclopedia-de-Tecnologia-Knowledge-Base-Interativa/
 │
-├── index.html
-├── style.css
-├── script.js
+├── assets/
+│   └── images/
+│       ├── javascript.png
+│       ├── python.svg
+│       ├── java.png
+│       └── ...
 ├── data.json
+├── index.html
+├── script.js
+├── style.css
 └── README.md
 ```
 
